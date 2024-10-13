@@ -1,6 +1,6 @@
-# Actividad de Artes Multimediales I
+# Artes Multimediales I - UNA - 2024
 
-## Tercera Actividad de Consolidación de Saberes (ACS-3)
+### Tercera Actividad de Consolidación de Saberes (ACS-3)
 
 Trabajo de mímesis basado en Theo Van Doesburg con interacción del mouse y movimiento.
 
